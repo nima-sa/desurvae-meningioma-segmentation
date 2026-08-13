@@ -1,0 +1,9 @@
+scikit-build
+scikit-learn
+torch
+torchvision
+torchaudio
+numpy
+tqdm
+nibabel
+scipy
