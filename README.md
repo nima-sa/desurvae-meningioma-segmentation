@@ -1,6 +1,6 @@
-Inference codes for DeSURVAE.
+Codes for DeSURVAE.
 
-Please cite:
+Anyone is welcome to use the codes as long as they cite:
 
 ```@inproceedings{sadeghzadeh2025desurvae,
   title={DeSURVAE: A Dual-Encoder Dual-Decoder Neural Network for GTV Semantic Segmentation of Meningioma Brain Tumor in Radiotherapy Planning},
